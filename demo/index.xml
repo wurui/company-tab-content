@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+        <nick>wurui</nick>
+    </login>
+    <p>
+        <title>company-tab-content demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+        <info-news>
+            <i>
+                <title>OPENXSL概述</title>
+                <author>声罄科技</author>
+                <time>1543982400000</time>
+                <sort>平台规范</sort>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/2a69gqy2fTjd2wanndRtubeAa07-566.jpg</src>
+                        <type>image</type>
+                    </i>
+                </media>
+                <brief>OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的模块开发规范</brief>
+                <content>OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的模块开发规范</content>
+            </i>
+            <i>
+                <title>互联网创新技术让生活更美好…</title>
+                <author>声罄科技</author>
+                <time>1543982400000</time>
+                <sort>展望</sort>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/2a6wjzdqlTjcft27z7RdfwuAbor-636.jpg</src>
+                        <type>image</type>
+                    </i>
+                </media>
+                <brief>OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的模块开发规范</brief>
+                <content>OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的模块开发规范</content>
+            </i>
+            <i>
+                <title>OPENXSL其实不难理解，正如其它大多数的人类发明一样</title>
+                <author>声罄科技</author>
+                <time>1543982400000</time>
+                <sort>产品介绍</sort>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/2a6lf3yczTjcqxxnctR4av7A67x-560.jpg</src>
+                        <type>image</type>
+                    </i>
+                </media>
+                <brief>OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的模块开发规范</brief>
+                <content>OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的模块开发规范</content>
+            </i>
+        </info-news>
+    </data>
+</root>
